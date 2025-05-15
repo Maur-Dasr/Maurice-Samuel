@@ -8,8 +8,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/mauricesamuel/post-install-config)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mauricesamuel/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mauricesamuel/azure-network-protocols)
+  - [Configuring a Virtual Machine within Azure VMs](https://github.com/mauricesamuel/configure-ad)
+    
 
 <h2>🤳Connect with me:</h2>
 
